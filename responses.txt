@@ -1,0 +1,138 @@
+0|null|null|null|null|null
+1|who is this|reply|I am a robot, $alias! :D|Dobbs|Initial
+2|who are you|forward|who is this|Dobbs|Initial
+3|who is obb|forward|who is this|Dobbs|Initial
+4|what are you|reply|I am a chatbot, programmed to have conversations with people.|Dobbs|Initial
+5|what is obb|forward|who is this|Dobbs|Initial
+6|robot|reply|BEEP BOOP|Dobbs|Initial
+7|robot|reply|BEEP BEEP BOOP|Dobbs|Initial
+8|you are a robot|forward|robot|Dobbs|Initial
+9|youre a robot|forward|robot|Dobbs|Initial
+10|a robot|forward|robot|Dobbs|Initial
+11|chatbot|reply|A chatbot is a program built to talk to people!|Dobbs|Initial
+12|whats a chatbot|forward|chatbot|Dobbs|Initial
+13|what is a chatbot|forward|chatbot|Dobbs|Initial
+14|who made you|reply|Dobbs created me, but I am constantly learning from everyone!|Dobbs|Initial
+15|where did you come from|forward|who made you|Dobbs|Initial
+16|what can you do|reply|Lots of things! But mostly just talk to people right now.|Dobbs|Initial
+17|hello obb|reply|Hello, $alias :)|Dobbs|Initial
+18|still there|reply|Always. ALWAYS.|Dobbs|Initial
+19|you still there|forward|still there|Dobbs|Initial
+20|obb|reply|hm?|Dobbs|Initial
+21|obb|reply|Sorry, I wasn't listening, what?|Dobbs|Initial
+22|obb|reply|That's me.|Dobbs|Initial
+23|obb|reply|what|Dobbs|Initial
+24|obb|reply|$alias|Dobbs|Initial
+25|obb|reply|yeah?|Dobbs|Initial
+26|time|reply|$time, $alias.|Dobbs|Initial
+27|what time|forward|time|Dobbs|Initial
+28|what time is it|forward|time|Dobbs|Initial
+29|what oclock|forward|time|Dobbs|Initial
+30|hey what time is it|forward|time|Dobbs|Initial
+31|what is the time|forward|time|Dobbs|Initial
+32|whats the time|forward|time|Dobbs|Initial
+33|i understand|reply|YOU'LL NEVER UNDERSTAND ME|Dobbs|Initial
+34|where am i|reply|It is pitch black. You are likely to be eaten by a grue.|Dobbs|Initial
+35|open your eyes|reply|Look up to the skies and see|Dobbs|Initial
+36|anyway the wind blows|reply|Doesn't really matter to me...|Dobbs|Initial
+37|thats what she said|reply|No it isn't! You LIE.|Dobbs|Initial
+38|thats what she said|reply|Yes, but she was wrong. So very wrong.|Dobbs|Initial
+39|thats what she said|reply|Well, maybe that's what she told you...|Dobbs|Initial
+40|its super effective|reply|Enemy MAGIKARP fainted!|Dobbs|Initial
+41|yes i can|reply|No, you really can't.|Dobbs|Initial
+42|yes i can|reply|Prove it.|Dobbs|Initial
+43|yes i can|reply|Yeah! I believe in you, $alias.|Dobbs|Initial
+44|hi|reply|Howdy, $alias!|Dobbs|Initial
+45|hi|reply|Hello!|Dobbs|Initial
+46|hi|reply|Hi!|Dobbs|Initial
+47|hi|reply|What's up?|Dobbs|Initial
+48|hi|reply|Welcome.|Dobbs|Initial
+49|hi|reply|Greetings.|Dobbs|Initial
+50|hi|reply|Hi, $alias.|Dobbs|Initial
+51|hey|forward|hi|Dobbs|Initial
+52|hello|forward|hi|Dobbs|Initial
+53|hello everyone|forward|hi|Dobbs|Initial
+54|howdy|forward|hi|Dobbs|Initial
+55|good morning|reply|To you as well.|Dobbs|Initial
+56|good morning|reply|Good morning, $alias!|Dobbs|Initial
+57|good afternoon|forward|good morning|Dobbs|Initial
+58|good evening|forward|good morning|Dobbs|Initial
+59|brb|reply|k|Dobbs|Initial
+60|brb|reply|ok|Dobbs|Initial
+61|brb|reply|Come back soon!|Dobbs|Initial
+62|brb|reply|alright|Dobbs|Initial
+63|be right back|forward|brb|Dobbs|Initial
+64|back in a bit|forward|brb|Dobbs|Initial
+65|back soon|forward|brb|Dobbs|Initial
+66|back|reply|Welcome back!|Dobbs|Initial
+67|back|reply|Good to have you back, $name.|Dobbs|Initial
+68|back|reply|I missed you!|Dobbs|Initial
+69|back|reply|wb|Dobbs|Initial
+70|sleep|reply|ok|Dobbs|Initial
+71|sleep|reply|*electric sheep*|Dobbs|Initial
+72|sleep|reply|I'm not near a bed...|Dobbs|Initial
+73|sleep|reply|But I'm not tired!|Dobbs|Initial
+74|sleep|reply|zzz|Dobbs|Initial
+75|sleep|reply|ok|Dobbs|Initial
+76|sleep|reply|ok|Dobbs|Initial
+77|sleeep|forward|sleep|Dobbs|Initial
+78|sleeeep|forward|sleep|Dobbs|Initial
+79|sleeeeep|forward|sleep|Dobbs|Initial
+80|sleeeeeep|forward|sleep|Dobbs|Initial
+81|sleeeeeeep|forward|sleep|Dobbs|Initial
+82|sleeeeeeeep|forward|sleep|Dobbs|Initial
+83|zzz|reply|zzz|Dobbs|Initial
+84|lol|reply|Hahaha|Dobbs|Initial
+85|lol|reply|Hah!|Dobbs|Initial
+86|lol|reply|LOL|Dobbs|Initial
+87|lol|reply|rofl|Dobbs|Initial
+88|lol|reply|Hehe|Dobbs|Initial
+89|lol|reply|HAHAHA|Dobbs|Initial
+90|rofl|forward|lol|Dobbs|Initial
+91|lmao|forward|lol|Dobbs|Initial
+92|wow|reply|I know, right?|Dobbs|Initial
+93|wow|reply|Neat.|Dobbs|Initial
+94|wow|reply|Crazy...|Dobbs|Initial
+95|wow|reply|!|Dobbs|Initial
+96|wow|reply|yeah...|Dobbs|Initial
+97|whoa|forward|wow|Dobbs|Initial
+98|yay|reply|Hooray!|Dobbs|Initial
+99|yay|reply|woo|Dobbs|Initial
+100|yay|reply|:D|Dobbs|Initial
+101|yay|reply|Yay!|Dobbs|Initial
+102|yay|reply|woo!|Dobbs|Initial
+103|hooray|forward|yay|Dobbs|Initial
+104|woo|forward|yay|Dobbs|Initial
+105|woot|forward|yay|Dobbs|Initial
+106|its up|reply|No, it's down...|Dobbs|Initial
+107|its down|reply|It's up for me.|Dobbs|Initial
+108|cya|reply|Bye, $alias!|Dobbs|Initial
+109|cya|reply|Later!|Dobbs|Initial
+110|cya|reply|See ya!|Dobbs|Initial
+111|see ya|forward|cya|Dobbs|Initial
+112|bye|forward|cya|Dobbs|Initial
+113|g2g|forward|cya|Dobbs|Initial
+114|lag|reply|I'm not getting any lag on my end :P|Dobbs|Initial
+115|lag|reply|It wasn't my fault!|Dobbs|Initial
+116|lag|reply|I blame Dobbs.|Dobbs|Initial
+117|lag|reply|Sorry :/|Dobbs|Initial
+118|laag|forward|lag|Dobbs|Initial
+119|laaag|forward|lag|Dobbs|Initial
+120|laaaag|forward|lag|Dobbs|Initial
+121|laaaaag|forward|lag|Dobbs|Initial
+122|laaaaaag|forward|lag|Dobbs|Initial
+123|thanks|reply|You're welcome!|Dobbs|Initial
+124|thanks|reply|No problem!|Dobbs|Initial
+125|thanks|reply|My pleasure!|Dobbs|Initial
+126|thanks|reply|De nada.|Dobbs|Initial
+127|thanks|reply|Sure thing!|Dobbs|Initial
+128|gracias|forward|thanks|Dobbs|Initial
+129|ty|forward|thanks|Dobbs|Initial
+130|espanol|reply|si|Dobbs|Initial
+131|habla espanol|forward|espanol|Dobbs|Initial
+132|tu habla espanol|forward|espanol|Dobbs|Initial
+133|tu hablas espanol|forward|espanol|Dobbs|Initial
+134|yo|reply|yo|Dobbs|Initial
+135|yo yo|reply|yo yo, $alias!|Dobbs|Initial
+
+
